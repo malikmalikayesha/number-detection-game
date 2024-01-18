@@ -8,7 +8,7 @@ Welcome to the Number Detection game project! This console-based game challenges
 - [Levels](#levels)
 - [Data Structures](#data-structures)
 - [How to Play](#how-to-play)
-- [Score System](#score-system)
+- [Project Presentation](#project-presentation)
 - [Installation](#installation)
 - [Contributing](#contributing)
 
@@ -53,6 +53,10 @@ The project utilizes the following data structures:
 5. After the first attempt, the game provides a hint to the user to narrow down the search. The cells that might have the target number behind them are subtly highlighted with a different color, making it easier for the player to make informed choices in the subsequent attempts. Use this hint wisely to maximize your score.
 6. Earn points based on your attempts: 5 points for the first attempt, 3 points for the second, and 2 points for the third.
 7. Enjoy the challenge and have fun!
+
+## Project Presentation
+
+Explore the inner workings of the code and see the game in action! Check out the [Presentation folder](Presentation/) for detailed insights and a video demonstration of the game output.
 
 ## Installation
 
