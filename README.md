@@ -66,6 +66,6 @@ Explore the inner workings of the code and see the game in action! Check out the
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute, please follow the guidelines in the CONTRIBUTING.md file.
+Contributions are welcome! If you'd like to contribute, please follow the guidelines in the [CONTRIBUTING.md](contributing) file.
 
 Enjoy the Number Detection game!
