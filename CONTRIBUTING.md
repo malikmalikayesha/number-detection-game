@@ -28,6 +28,8 @@ To contribute to Number Detection Game, please follow these guidelines:
 
 - Ensure that your code changes do not introduce any new bugs or regressions.
 
+- Use comments to explain your logic where necessary
+
 - When submitting a pull request, provide a detailed description of the changes made and the problem they solve. Include any relevant information that would help reviewers understand your work.
 
 Happy Contributing!
