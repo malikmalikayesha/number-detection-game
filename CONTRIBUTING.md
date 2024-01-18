@@ -12,9 +12,7 @@ Thank you for considering contributing to this project! Your interest in improvi
    git clone https://github.com/malikmalikayesha/number-detection-game.git
    ```
 
-3. Set up the development environment by following the instructions in the `README.md` file.
-
-4. Create a new branch for your contribution:
+3. Create a new branch for your contribution:
 
    ```bash
    git checkout -b feature/your-feature-name
