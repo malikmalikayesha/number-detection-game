@@ -1,0 +1,12 @@
+[1] Objective: Find the hidden number behind a grid of cells
+    with three lives
+[2] Scoring : Earn 5 points in the first attempt, 3 points 
+    in the second, and 2 points in the third.
+[3] Levels : There are 3 levels with increasing difficulty 
+    level.
+[4] Hint System: After the first try, the game provides a 
+    hint to the user to narrow down the search. The cells 
+    that might have the target number behind them are subtly 
+    highlighted with a different color, making it easier for 
+    the player to make informed choices in the subsequent 
+    attempts. Use this hint wisely to maximize your score.
