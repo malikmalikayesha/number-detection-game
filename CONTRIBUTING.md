@@ -9,7 +9,7 @@ Thank you for considering contributing to this project! Your interest in improvi
 2. Clone the forked repository to your local development environment:
 
    ```bash
-   git clone https://github.com/your-username/number-detection-game.git
+   git clone https://github.com/malikmalikayesha/number-detection-game.git
    ```
 
 3. Set up the development environment by following the instructions in the `README.md` file.
